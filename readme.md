@@ -1,0 +1,1 @@
+This project involves the construction of a website that contains links to several recipes. It is fairly barebones, and only uses the fundamentals of HTML.
